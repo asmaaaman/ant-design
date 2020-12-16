@@ -21,7 +21,7 @@ import { useHistory } from 'react-router-dom';
     const history = useHistory();
     const onSubmit = ()=> {
    
-        history.push('/about');
+        history.push('/menu');
   
     }
 
